@@ -1,0 +1,16 @@
+.DS_Store
+
+# Node.js dependencies
+node_modules
+
+# Environment variables
+.env
+.env.development
+
+# Logs
+# Operating System Files
+Thumbs.db
+
+# IDE files
+.idea
+.vscode
